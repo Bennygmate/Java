@@ -3,7 +3,7 @@ import java.util.Comparator;
 
 /**
  * Representation of Node for use in A* search
- * @author z3460693
+ * @author Ben C
  */
 public class Node implements Comparator<Node> {
 	
