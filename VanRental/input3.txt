@@ -1,0 +1,32 @@
+Location CBD Wicked Automatic
+Location CBD Zeppelin Automatic
+Location CBD Floyd Automatic
+Location Penrith Queen Manual    
+Location Cremorne Ramones Automatic
+Location Cremorne Nirvana Automatic
+Location Sutherland Purple Manual
+Location Sutherland Hendrix Manual
+Location Sutherland Eagle Manual
+Location UNSW James Automatic
+Location UNSW Jimmy Automatic
+Location UNSW Jimbo Automatic
+# Testing same output
+Request 1 23 Mar 25 12 Mar 26 3 Automatic 1 Manual 
+Request 2 12 Mar 24 15 Mar 27 1 Manual
+Request 3 13 Mar 26 21 Mar 26 2 Automatic 2 Manual
+# Invalid cancel
+Cancel 5
+Cancel 4
+# Test cancel
+Cancel 3
+Cancel 2
+Cancel 1
+Request 1 23 Mar 25 12 Mar 26 3 Automatic 1 Manual 
+Request 2 12 Mar 24 15 Mar 27 1 Manual
+Request 3 13 Mar 26 21 Mar 26 2 Automatic 2 Manual
+# Print no booking in depot
+Print UNSW
+# Book out all vans
+Request 3 13 Dec 26 21 Dec 26 8 Automatic 4 Manual
+# Now test printed booking
+Print UNSW

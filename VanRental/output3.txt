@@ -1,0 +1,15 @@
+Booking 1 CBD Wicked, Zeppelin, Floyd; Penrith Queen
+Booking 2 Sutherland Purple
+Booking 3 CBD Wicked, Zeppelin; Penrith Queen; Sutherland Hendrix
+Cancel rejected
+Cancel rejected
+Cancel 3
+Cancel 2
+Cancel 1
+Booking 1 CBD Wicked, Zeppelin, Floyd; Penrith Queen
+Booking 2 Sutherland Purple
+Booking 3 CBD Wicked, Zeppelin; Penrith Queen; Sutherland Hendrix
+Booking 3 CBD Wicked, Zeppelin, Floyd; Penrith Queen; Cremorne Ramones, Nirvana; Sutherland Purple, Hendrix, Eagle; UNSW James, Jimmy, Jimbo
+UNSW James 13:00 Dec 26 21:00 Dec 26
+UNSW Jimmy 13:00 Dec 26 21:00 Dec 26
+UNSW Jimbo 13:00 Dec 26 21:00 Dec 26

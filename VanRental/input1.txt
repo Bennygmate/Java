@@ -1,0 +1,22 @@
+Location CBD Wicked Automatic
+Location CBD Zeppelin Automatic
+Location CBD Floyd Automatic
+Location Penrith Queen Manual    
+Location Cremorne Ramones Automatic
+Location Cremorne Nirvana Automatic
+Location Sutherland Purple Manual
+Location Sutherland Hendrix Manual
+Location Sutherland Eagle Manual
+Request 1 23 Mar 25 12 Mar 26 3 Automatic 1 Manual 
+Request 2 12 Mar 24 15 Mar 27 1 Manual
+Request 3 13 Mar 26 21 Mar 26 2 Automatic 2 Manual
+Change 1 23 Mar 27 23 Mar 29 3 Manual 2 Automatic
+Request 4 11 Mar 25 09 Mar 26 1 Automatic # Discard comment after only 1 type request
+Cancel 3
+Request 3 11 Jan 26 09 Jan 27 4 Manual #Request again after cancel
+Print CBD # Test the print output
+Print Penrith # Test the print output
+# Not enough vans, cant change
+Change 1 12 Mar 24 15 Mar 27 5 Manual
+Print Cremone # Test the print output
+Print Sutherland # Test the print output
