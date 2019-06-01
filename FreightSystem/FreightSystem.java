@@ -14,7 +14,7 @@ import java.util.Scanner;
  * HeuristicB: Time: O(n^3) because the for the job iterator O(n), path iterator is O(n), 
  *                          and the travel cost getter in Town is also O(n).
  *                  Space: O(1) as no variables declared within loops
- * @author z3460693
+ * @author Ben c
  */
 
 public class FreightSystem {
