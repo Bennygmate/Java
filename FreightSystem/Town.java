@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Representation of town
- * @author z3460693
+ * @author Ben C
  */
 public class Town {
 	
