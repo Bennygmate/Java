@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Representation of AdmissibleHeuristic as a strategy pattern implementation
- * @author z3460693
+ * @author Ben C
  */
 public class AdmissibleHeuristic {
 	private StrategyHeuristic heuristic;
