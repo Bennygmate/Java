@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Representation of a heuristic for A* search algorithm
- * @author z3460693
+ * @author Ben C
  */
 public class HeuristicB implements StrategyHeuristic {
 	/**
