@@ -1,0 +1,14 @@
+# Job only has one path
+Unloading 140 Sydney
+Unloading 245 Melbourne
+Unloading 139 Brisbane
+Unloading 137 Perth
+Unloading 37 Adelaide
+Cost 190 Sydney Perth
+Cost 289 Melbourne Brisbane 
+Cost 191 Brisbane Adelaide
+Cost 174 Perth Adelaide
+Job Sydney Perth
+Job Melbourne Brisbane
+Job Perth Adelaide
+Job Brisbane Adelaide

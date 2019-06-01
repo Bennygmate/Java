@@ -1,0 +1,8 @@
+153 nodes expanded
+cost = 1762
+Job Sydney to Perth
+Empty Perth to Sydney
+Job Sydney to Adelaide
+Empty Adelaide to Melbourne
+Job Melbourne to Brisbane
+Job Brisbane to Perth
