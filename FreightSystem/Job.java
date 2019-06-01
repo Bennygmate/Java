@@ -1,6 +1,6 @@
 /**
  * Representation of Job
- * @author z3460693
+ * @author Ben C
  */
 public class Job {
 	
