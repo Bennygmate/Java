@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Representation of StrategyHeuristic as a strategy pattern interface
- * @author z3460693
+ * @author Ben C
  */
 public interface StrategyHeuristic {
 	
