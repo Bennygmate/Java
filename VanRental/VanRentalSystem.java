@@ -1,5 +1,4 @@
 /**
- * COMP2911 Assignment 1
  * @author Benjamin Cheung
  * 
  */
